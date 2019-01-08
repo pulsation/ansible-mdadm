@@ -1,6 +1,9 @@
 Role Name
 =========
 
+cloned from : https://github.com/mrlesmithjr/ansible-mdadm.git
+version     : 1c06163
+
 An [Ansible] role to install and manage [mdadm] raid arrays.
 
 Requirements
